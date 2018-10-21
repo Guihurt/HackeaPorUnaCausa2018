@@ -1,0 +1,258 @@
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\ApplicationInsights.config
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\HackprClean.dll.config
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\HackprClean.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\HackprClean.pdb
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\csc.exe
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\csc.exe.config
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\csc.rsp
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\csi.exe
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\csi.exe.config
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\csi.rsp
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.AppContext.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.Collections.Immutable.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.Console.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.IO.Compression.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.IO.FileSystem.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.IO.Pipes.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.Reflection.Metadata.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.Security.AccessControl.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.Security.Claims.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.Security.Principal.Windows.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.ValueTuple.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.Xml.XPath.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\vbc.exe
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\vbc.exe.config
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\vbc.rsp
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\VBCSCompiler.exe
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\roslyn\VBCSCompiler.exe.config
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Antlr3.Runtime.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\EntityFramework.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\EntityFramework.SqlServer.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.AI.Agent.Intercept.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.AI.DependencyCollector.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.AI.Web.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.AI.WindowsServer.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.ApplicationInsights.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.AspNet.Identity.Core.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.IdentityModel.Logging.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.IdentityModel.Tokens.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.Owin.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.Owin.Security.Cookies.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.Owin.Security.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.Owin.Security.Facebook.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.Owin.Security.Google.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.Owin.Security.OAuth.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.Owin.Security.Twitter.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.Web.Infrastructure.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Newtonsoft.Json.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Owin.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\System.Web.Helpers.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\System.Web.Mvc.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\System.Web.Optimization.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\System.Web.Razor.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\System.Web.WebPages.Deployment.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\System.Web.WebPages.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\System.Web.WebPages.Razor.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Twilio.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\WebGrease.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.IdentityModel.Tokens.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\System.Web.Helpers.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\System.Web.Mvc.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\System.Web.Optimization.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\System.Web.Razor.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\System.Web.WebPages.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\System.Web.WebPages.Deployment.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\System.Web.WebPages.Razor.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Newtonsoft.Json.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Twilio.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Antlr3.Runtime.pdb
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\EntityFramework.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\EntityFramework.SqlServer.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.AspNet.Identity.Core.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.Owin.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.Owin.Security.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.Owin.Security.Facebook.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.Owin.Security.Cookies.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.Owin.Security.Google.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.Owin.Security.Twitter.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.Owin.Security.OAuth.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.AI.DependencyCollector.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.AI.WindowsServer.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.AI.Web.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\obj\Debug\HackprClean.csproj.CoreCompileInputs.cache
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\obj\Debug\HackprClean.csproj.CopyComplete
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\obj\Debug\HackprClean.dll
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\obj\Debug\HackprClean.pdb
+C:\HackprClean\ApplicationInsights.config
+C:\HackprClean\HackprClean.dll.config
+C:\HackprClean\HackprClean.dll
+C:\HackprClean\HackprClean.pdb
+C:\ASP.NET FUCK ALL\ASP.NET FUCK ALL\obj\Debug\HackprClean.csprojAssemblyReference.cache
+C:\HackprClean\HackprClean\bin\ApplicationInsights.config
+C:\HackprClean\HackprClean\bin\HackprClean.dll.config
+C:\HackprClean\HackprClean\bin\HackprClean.dll
+C:\HackprClean\HackprClean\bin\HackprClean.pdb
+C:\HackprClean\HackprClean\bin\roslyn\csc.exe
+C:\HackprClean\HackprClean\bin\roslyn\csc.exe.config
+C:\HackprClean\HackprClean\bin\roslyn\csc.rsp
+C:\HackprClean\HackprClean\bin\roslyn\csi.exe
+C:\HackprClean\HackprClean\bin\roslyn\csi.exe.config
+C:\HackprClean\HackprClean\bin\roslyn\csi.rsp
+C:\HackprClean\HackprClean\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\HackprClean\HackprClean\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\HackprClean\HackprClean\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\HackprClean\HackprClean\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\HackprClean\HackprClean\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\HackprClean\HackprClean\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HackprClean\HackprClean\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\HackprClean\HackprClean\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\HackprClean\HackprClean\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\HackprClean\HackprClean\bin\roslyn\Microsoft.Managed.Core.targets
+C:\HackprClean\HackprClean\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\HackprClean\HackprClean\bin\roslyn\System.AppContext.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.Collections.Immutable.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.Console.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.IO.Compression.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.IO.FileSystem.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.IO.Pipes.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.Reflection.Metadata.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.Security.AccessControl.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.Security.Claims.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.Security.Principal.Windows.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.ValueTuple.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.Xml.XmlDocument.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.Xml.XPath.dll
+C:\HackprClean\HackprClean\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\HackprClean\HackprClean\bin\roslyn\vbc.exe
+C:\HackprClean\HackprClean\bin\roslyn\vbc.exe.config
+C:\HackprClean\HackprClean\bin\roslyn\vbc.rsp
+C:\HackprClean\HackprClean\bin\roslyn\VBCSCompiler.exe
+C:\HackprClean\HackprClean\bin\roslyn\VBCSCompiler.exe.config
+C:\HackprClean\HackprClean\bin\Antlr3.Runtime.dll
+C:\HackprClean\HackprClean\bin\EntityFramework.dll
+C:\HackprClean\HackprClean\bin\EntityFramework.SqlServer.dll
+C:\HackprClean\HackprClean\bin\Microsoft.AI.Agent.Intercept.dll
+C:\HackprClean\HackprClean\bin\Microsoft.AI.DependencyCollector.dll
+C:\HackprClean\HackprClean\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\HackprClean\HackprClean\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\HackprClean\HackprClean\bin\Microsoft.AI.Web.dll
+C:\HackprClean\HackprClean\bin\Microsoft.AI.WindowsServer.dll
+C:\HackprClean\HackprClean\bin\Microsoft.ApplicationInsights.dll
+C:\HackprClean\HackprClean\bin\Microsoft.AspNet.Identity.Core.dll
+C:\HackprClean\HackprClean\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\HackprClean\HackprClean\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\HackprClean\HackprClean\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\HackprClean\HackprClean\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\HackprClean\HackprClean\bin\Microsoft.IdentityModel.Logging.dll
+C:\HackprClean\HackprClean\bin\Microsoft.IdentityModel.Tokens.dll
+C:\HackprClean\HackprClean\bin\Microsoft.Owin.dll
+C:\HackprClean\HackprClean\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\HackprClean\HackprClean\bin\Microsoft.Owin.Security.Cookies.dll
+C:\HackprClean\HackprClean\bin\Microsoft.Owin.Security.dll
+C:\HackprClean\HackprClean\bin\Microsoft.Owin.Security.Facebook.dll
+C:\HackprClean\HackprClean\bin\Microsoft.Owin.Security.Google.dll
+C:\HackprClean\HackprClean\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\HackprClean\HackprClean\bin\Microsoft.Owin.Security.OAuth.dll
+C:\HackprClean\HackprClean\bin\Microsoft.Owin.Security.Twitter.dll
+C:\HackprClean\HackprClean\bin\Microsoft.Web.Infrastructure.dll
+C:\HackprClean\HackprClean\bin\Newtonsoft.Json.dll
+C:\HackprClean\HackprClean\bin\Owin.dll
+C:\HackprClean\HackprClean\bin\System.Diagnostics.DiagnosticSource.dll
+C:\HackprClean\HackprClean\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\HackprClean\HackprClean\bin\System.Web.Helpers.dll
+C:\HackprClean\HackprClean\bin\System.Web.Mvc.dll
+C:\HackprClean\HackprClean\bin\System.Web.Optimization.dll
+C:\HackprClean\HackprClean\bin\System.Web.Razor.dll
+C:\HackprClean\HackprClean\bin\System.Web.WebPages.Deployment.dll
+C:\HackprClean\HackprClean\bin\System.Web.WebPages.dll
+C:\HackprClean\HackprClean\bin\System.Web.WebPages.Razor.dll
+C:\HackprClean\HackprClean\bin\Twilio.dll
+C:\HackprClean\HackprClean\bin\WebGrease.dll
+C:\HackprClean\HackprClean\bin\Microsoft.IdentityModel.Tokens.xml
+C:\HackprClean\HackprClean\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\HackprClean\HackprClean\bin\System.Web.Helpers.xml
+C:\HackprClean\HackprClean\bin\System.Web.Mvc.xml
+C:\HackprClean\HackprClean\bin\System.Web.Optimization.xml
+C:\HackprClean\HackprClean\bin\System.Web.Razor.xml
+C:\HackprClean\HackprClean\bin\System.Web.WebPages.xml
+C:\HackprClean\HackprClean\bin\System.Web.WebPages.Deployment.xml
+C:\HackprClean\HackprClean\bin\System.Web.WebPages.Razor.xml
+C:\HackprClean\HackprClean\bin\Newtonsoft.Json.xml
+C:\HackprClean\HackprClean\bin\Twilio.xml
+C:\HackprClean\HackprClean\bin\Antlr3.Runtime.pdb
+C:\HackprClean\HackprClean\bin\EntityFramework.xml
+C:\HackprClean\HackprClean\bin\EntityFramework.SqlServer.xml
+C:\HackprClean\HackprClean\bin\Microsoft.AspNet.Identity.Core.xml
+C:\HackprClean\HackprClean\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\HackprClean\HackprClean\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\HackprClean\HackprClean\bin\Microsoft.Owin.xml
+C:\HackprClean\HackprClean\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\HackprClean\HackprClean\bin\Microsoft.Owin.Security.xml
+C:\HackprClean\HackprClean\bin\Microsoft.Owin.Security.Facebook.xml
+C:\HackprClean\HackprClean\bin\Microsoft.Owin.Security.Cookies.xml
+C:\HackprClean\HackprClean\bin\Microsoft.Owin.Security.Google.xml
+C:\HackprClean\HackprClean\bin\Microsoft.Owin.Security.Twitter.xml
+C:\HackprClean\HackprClean\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\HackprClean\HackprClean\bin\Microsoft.Owin.Security.OAuth.xml
+C:\HackprClean\HackprClean\bin\System.Diagnostics.DiagnosticSource.xml
+C:\HackprClean\HackprClean\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\HackprClean\HackprClean\bin\Microsoft.AI.DependencyCollector.xml
+C:\HackprClean\HackprClean\bin\Microsoft.AI.WindowsServer.xml
+C:\HackprClean\HackprClean\bin\Microsoft.AI.Web.xml
+C:\HackprClean\HackprClean\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\HackprClean\HackprClean\obj\Debug\HackprClean.csprojAssemblyReference.cache
+C:\HackprClean\HackprClean\obj\Debug\HackprClean.csproj.CoreCompileInputs.cache
+C:\HackprClean\HackprClean\obj\Debug\HackprClean.csproj.CopyComplete
+C:\HackprClean\HackprClean\obj\Debug\HackprClean.dll
+C:\HackprClean\HackprClean\obj\Debug\HackprClean.pdb
